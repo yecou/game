@@ -1,0 +1,5 @@
+markdown: kramdown
+highlighter: rouge
+
+url: http://yecou.github.io/game
+root: /game/
